@@ -1,7 +1,6 @@
 """Tests for src.data."""
 
 import pandas as pd
-import pytest
 
 from src.data import clean_data
 
